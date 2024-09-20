@@ -1,4 +1,4 @@
-![image]([[https://link-para-sua-imagem.png]](https://imgur.com/a/vb1wogp))
+![image](https://imgur.com/a/vb1wogp)
 
 Este aplicativo foi desenvolvido para fornecer informações sobre o clima utilizando a API OpenWeatherMap. O projeto permite que os usuários busquem dados climáticos através do nome de um país ou da cidade. Esta é a primeira versão do nosso aplicativo.
 
