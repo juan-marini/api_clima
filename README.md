@@ -1,6 +1,6 @@
 # WeatherApp
 
-![image](https://imgur.com/CSdwsij) <!-- Substitua pelo link da imagem que você deseja -->
+![image](https://i.imgur.com/CSdwsij.png) <!-- Substitua pelo link da imagem que você deseja -->
 
 Este aplicativo foi desenvolvido para fornecer informações sobre o clima utilizando a API OpenWeatherMap. O projeto permite que os usuários busquem dados climáticos através do nome de um país ou da cidade. Esta é a primeira versão do nosso aplicativo.
 
