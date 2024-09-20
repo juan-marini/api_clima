@@ -15,6 +15,4 @@ Este aplicativo foi desenvolvido para fornecer informações sobre o clima utili
 * Exibição da temperatura atual, máxima e mínima em Celsius
 
 ## Feito por:
-
-### Juan Marini 
-### LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/seu-linkedin/) <!-- Substitua pelo seu perfil do LinkedIn -->
+### LinkedIn: [Juan Marini](https://www.linkedin.com/in/seu-linkedin/) <!-- Substitua pelo seu perfil do LinkedIn -->
