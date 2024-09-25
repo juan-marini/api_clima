@@ -1,18 +1,17 @@
-![image](https://i.imgur.com/CSdwsij.png) 
 
-Este aplicativo foi desenvolvido para fornecer informações sobre o clima utilizando a API OpenWeatherMap. O projeto permite que os usuários busquem dados climáticos através do nome de um país ou da cidade. Esta é a primeira versão do nosso aplicativo.
+## Discord Bot
+
+Este bot foi desenvolvido para gerenciar um servidor do Discord, incluindo comandos para interação, como repetir mensagens e realizar banimentos. O projeto tem como objetivo proporcionar uma melhor experiência de administração e comunicação dentro do servidor. Esta é a primeira versão do bot.
 
 ## Tecnologias utilizadas:
 
-* Java
-* JSON-simple
-* API OpenWeatherMap
+* Python
+* discord.py (biblioteca Python para Discord API)
+* Asyncio
 
 ## Funcionalidades:
-
-* Busca de clima pelo nome do país
-* Busca de clima pelo nome da cidade
-* Exibição da temperatura atual, máxima e mínima em Celsius
+* Comando !say: Repete a mensagem do usuário em um embed estilizado
+* Status personalizado: Exibe uma mensagem indicando quem programou o bot
 
 ## Feito por:
 ### LinkedIn: [Juan Marini](https://www.linkedin.com/in/juan-marini/)
